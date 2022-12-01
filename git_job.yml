@@ -1,6 +1,6 @@
 workflows:
   Git Job:
-    name: Git Job
+    name: Job with new title
     email_notifications:
       on_failure:
         - rory.smyth@databricks.com
